@@ -17,10 +17,10 @@ The following information is available for a bike ride:
 - Bike share for all trip
 
 #### 1.2 Findings
-**Duration:** Most people use the bikes between 120 seconds and 1200 seconds.
-**Over the day:** There are clear peaks at rush hour, i.e. between 7am and 9am and between 4pm and 6pm.
-**Over the week:** The Bay Wheels service is all in all less popular at the weekend.
-**Over the year:** All in all, there are more bike rides in summer. In 2018, users did consistently more bike rides in the summer months. In 2019 however, there were peaks in March and October and the service was equally popular in January and June.
+**Duration:** Most people use the bikes between 120 seconds and 1200 seconds.<br>
+**Over the day:** There are clear peaks at rush hour, i.e. between 7am and 9am and between 4pm and 6pm.<br>
+**Over the week:** The Bay Wheels service is all in all less popular at the weekend.<br>
+**Over the year:** All in all, there are more bike rides in summer. In 2018, users did consistently more bike rides in the summer months. In 2019 however, there were peaks in March and October and the service was equally popular in January and June.<br>
 **User types:**
 - Subscribers:
   – Account for 80% of all bike rides
