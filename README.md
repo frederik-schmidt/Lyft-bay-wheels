@@ -1,8 +1,8 @@
-## Exploration of Lyft Bay Wheels data to identify business opor- tunities in bike sharing industry in San Francisco Bay
+### Data Analysis | Exploration of Lyft Bay Wheels data to identify business oportunities in bike sharing industry in San Francisco Bay
 
 This project explores data of the Lyft Bay Wheels dataset. Bay Wheels is a public bicycle sharing company in the San Francisco Bay Area, California owned by the ridesharing company Lyft Inc. Bay Wheels is the first regional and large-scale bicycle sharing system deployed in California and on the West Coast of the United States.
 
-### Data source
+#### Data source
 The cleaned database captures ~5,800,000 bike rides from Juny 26th 2017 to March 31st 2020.
 The following information is available for a bike ride:
 - Duration in seconds
@@ -16,7 +16,7 @@ The following information is available for a bike ride:
 - User type
 - Bike share for all trip
 
-### 1.2 Findings
+#### 1.2 Findings
 **Duration:** Most people use the bikes between 120 seconds and 1200 seconds.
 **Over the day:** There are clear peaks at rush hour, i.e. between 7am and 9am and between 4pm and 6pm.
 **Over the week:** The Bay Wheels service is all in all less popular at the weekend.
@@ -31,7 +31,7 @@ The following information is available for a bike ride:
   – Use the service for commuting but also at the weekend
   – Spend more time with a bike than Subscribers
 
-### 1.3 Resources
+#### 1.3 Resources
 - Data source: https://www.lyft.com/bikes/bay-wheels/system-data
 - Pricing: https://www.lyft.com/bikes/bay-wheels/pricing
 - Additional information: https://en.wikipedia.org/wiki/Bay_Wheels
