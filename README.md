@@ -1,6 +1,9 @@
-### Data Analysis | Exploration of Lyft Bay Wheels data to identify business oportunities in bike sharing industry in San Francisco Bay
+### Data Analysis | Lyft Bay Wheels Bike Sharing
 
 This project explores data of the Lyft Bay Wheels dataset. Bay Wheels is a public bicycle sharing company in the San Francisco Bay Area, California owned by the ridesharing company Lyft Inc. Bay Wheels is the first regional and large-scale bicycle sharing system deployed in California and on the West Coast of the United States.
+
+**Goal:** Exploration of Lyft Bay Wheels data to identify business oportunities in bike sharing industry in San Francisco Bay
+
 
 #### 1.1 Data source
 The cleaned database captures **~5,800,000 bike rides** from Juny 26th 2017 to March 31st 2020.
