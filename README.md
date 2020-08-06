@@ -25,11 +25,11 @@ The following information is available for a bike ride:
 **Over the week:** The Bay Wheels service is all in all less popular at the weekend.<br>
 **Over the year:** All in all, there are more bike rides in summer. In 2018, users did consistently more bike rides in the summer months. In 2019 however, there were peaks in March and October and the service was equally popular in January and June.<br>
 **User types:**
-- Subscribers:
+- Subscribers:<br>
   – Account for 80% of all bike rides<br>
   – Mostly use the service during the week for commuting<br>
   – 50% less bike rides at a weekend day compared to a day from Monday to Friday<br>
-- Customers:
+- Customers:<br>
   – Account for 20% of all bike rides<br>
   – Use the service for commuting but also at the weekend<br>
   – Spend more time with a bike than Subscribers<br>
